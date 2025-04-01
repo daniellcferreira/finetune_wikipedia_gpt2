@@ -1,4 +1,12 @@
 # Fine-Tuning do GPT-2 com a Wikipedia
+![Python](https://img.shields.io/badge/Python-Interpreted-blue?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-Neural%20Networks-red?style=flat-square&logo=keras)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-blue?style=flat-square&logo=jupyter)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow?style=flat-square&logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat-square&logo=pytorch)
+![Datasets](https://img.shields.io/badge/Datasets-Data%20Processing-green?style=flat-square&logo=dataset)
+
 
 
 ## Descrição
